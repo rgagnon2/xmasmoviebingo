@@ -13,7 +13,7 @@ var options = [
     'at least one parent dead',
     'fake-looking laughter',
     'long. awkward. pause.',
-    'one character is in plummeting career deline',
+    'one actor is in plummeting career deline',
     'true meaning of christmas',
     'impeccably perfect christmas decorations',
     'a character is secretly santa claus',
@@ -38,7 +38,18 @@ var options = [
     'crucial conversation interrupted',
     'significant other shows up unexpectedly',
     'someone becomes irrationally upset',
-    'High School Musical star'
+    'High School Musical star',
+    'decorating the tree',
+    'family business',
+    'perfect amount of snowfall',
+    'their clothes are not warm enough for this weather',
+    'someone dies (or died) at xmas',
+    '\"it\'s a christmas miracle\"',
+    'woke.',
+    'hot cocoa',
+    'kid sets couple up'
+
+
 ]
 
 var  MakeBoardList = () => {
